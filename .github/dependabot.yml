@@ -1,6 +1,6 @@
 version: 2
 updates:
-  - package-ecosystem: "gradle"
+  - package-ecosystem: "maven"
     # Files stored in repository root
     directory: "/web-server"
     schedule:
